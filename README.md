@@ -1,12 +1,14 @@
-# 👋 ¡Hola! Soy Facundo Herrera
+#  ¡Hola! Soy Facundo Herrera
 
 <div>
   
 ###  Estudiante de Tecnicatura Universitaria en Programación
 **Universidad Tecnológica Nacional - Facultad Regional Pacheco**
 
-[![GitHub](https://img.shields.io/badge/GitHub-f--Rra-181717?logo=github&logoColor=white)](https://github.com/f-Rra)
 [![Email](https://img.shields.io/badge/Email-Facundo.Herrera%40alumnos.frgp.utn.edu.ar-red?logo=gmail&logoColor=white)](mailto:Facundo.Herrera@Alumnos.Frgp.Utn.Edu.ar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo_Herrera-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-rra/)
+[![Discord](https://img.shields.io/badge/Discord-f--Rra-5865F2?logo=discord&logoColor=white)](https://discord.com/users/710106527)
+[![GitHub](https://img.shields.io/badge/GitHub-f--Rra-181717?logo=github&logoColor=white)](https://github.com/f-Rra)
 
 </div>
 
@@ -14,87 +16,15 @@
 
 ## 🚀 Sobre Mí
 
-Soy estudiante de **Tecnicatura Universitaria en Programación** en la UTN, apasionado por desarrollar **software que resuelve problemas reales**. Me especializo en crear sistemas empresariales robustos con arquitecturas bien estructuradas y documentación completa.
+Actualmente me especializo en **C#**, **SQL Server** y **.NET Framework**, con experiencia en desarrollo web usando **ASP.NET**. 
 
----
+Cuento con conocimientos en algoritmos, estructuras de datos, programación orientada a objetos, patrones de diseño y arquitecturas en capas.
 
-## 💻 Proyectos
+Estoy enfocado en aprender sobre **ASP.NET MVC** y **Entity Framework**, y próximamente trabajaré con **Java** en las últimas materias de la carrera. Soy un desarrollador detallista, responsable y comprometido, con un enfoque en trabajo eficiente y puntual.
 
-### 🍽️ Sistema de Control de Almuerzos
-> Sistema empresarial para gestión integral de comedores corporativos
+Tengo **17 materias cursadas y aprobadas** en la Tecnicatura Universitaria en Programación, incluyendo formación avanzada en programación, gestión de bases de datos, arquitectura de sistemas y metodologías de desarrollo de software. 
 
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra)
-[![C#](https://img.shields.io/badge/C%23-10.0-green)](https://github.com/f-Rra)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-red)](https://github.com/f-Rra)
-[![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
-
-**Sistema completo de gestión de comedores corporativos** con registro de comensales, control de servicios y reportes automatizados. Preparado para implementación RFID.
-
-#### ✨ Características 
-- 🏗️ **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
-- 🎫 **Sistema RFID-ready** para registro automático de comensales
-- 📊 **Reportes** con exportación a PDF
-- ⏱️ **Visualización en tiempo real** para personal de cocina
-- 📈 **Estadísticas** por empresa, período y lugar
-- 🔒 **Validaciones robustas** en todas las capas
-- 💾 **Sistema de respaldos** automáticos y manuales
-- 📝 **Documentación completa** (README técnico + Manual de usuario + Guía RFID)
-
-#### 🛠️ Stack Tecnológico
-- **Backend**: C# (.NET Framework 4.8), Procedimientos almacenados SQL
-- **Base de Datos**: SQL Server con triggers, vistas y stored procedures
-- **Frontend**: Windows Forms con ReaLTaiizor
-- **Reportes**: iTextSharp para generación de PDFs
-- **Arquitectura**: Patrón de 3 capas con Mappers, Gestores y Helpers
-
-#### 📌 Destacados Técnicos
-✅ procedimientos almacenados optimizados  
-✅ triggers para validaciones y actualizaciones automáticas  
-✅ vistas especializadas para consultas optimizadas  
-✅ Sistema de gestión completo ABML para todas las entidades  
-✅ Manejo centralizado de excepciones y mensajería  
-✅ Cronómetro en tiempo real con gestores especializados
-
-[🔗 Ver Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos) | [📖 Ver Documentación](https://github.com/f-Rra/Sistema-Control-Almuerzos/blob/main/README.md)
-
----
-
-### 🏪 Sistema de Gestión Comercial
-> Solución integral para administración de inventarios, ventas y reportes empresariales
-
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8.1-blue)](https://github.com/f-Rra)
-[![C#](https://img.shields.io/badge/C%23-7.3-green)](https://github.com/f-Rra)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
-[![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
-
-**Sistema completo de gestión comercial** con control de inventarios, procesamiento de ventas, gestión de stock y sistema de reportes con exportación.
-
-#### ✨ Características
-- 🏗️ **Arquitectura en 3 capas** robusta y escalable
-- 🔐 **Sistema de autenticación** con roles diferenciados (Admin/Vendedor)
-- 🛒 **Sistema de ventas** con carrito interactivo y actualización automática de stock
-- 📦 **Gestión completa de inventarios** con operaciones CRUD
-- 📊 **Módulo de reportes** con estadísticas por categorías y marcas
-- ⚡ **Actualizaciones en tiempo real** mediante triggers de BD
-- 💾 **Transacciones seguras** con rollback automático
-- 📝 **Documentación completa** (README + Especificación técnica + Manual de usuario)
-
-#### 🛠️ Stack Tecnológico
-- **Backend**: C# (.NET Framework 4.8.1), Procedimientos almacenados SQL
-- **Base de Datos**: SQL Server con triggers y vistas optimizadas
-- **Frontend**: Windows Forms con controles personalizados
-- **Seguridad**: Autenticación por roles con control granular
-- **Arquitectura**: Separación de responsabilidades en 3 capas
-
-#### 📌 Destacados Técnicos
-✅ procedimientos almacenados para operaciones críticas  
-✅ triggers para validaciones y actualización automática de stock  
-✅ vistas especializadas para estadísticas en tiempo real  
-✅ Sistema de roles con permisos diferenciados  
-✅ Carrito de compras con validación de stock disponible  
-✅ Exportación de reportes a PNG/PDF
-
-[🔗 Ver Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial) | [📖 Ver Documentación](https://github.com/f-Rra/Sistema-Gestion-Comercial/blob/main/README.md)
+[📄 Ver Actividad Académica](https://github.com/f-Rra/f-Rra/blob/main/Actividad_Academica.pdf)
 
 ---
 
@@ -114,9 +44,9 @@ Soy estudiante de **Tecnicatura Universitaria en Programación** en la UTN, apas
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ReaLTaiizor](https://img.shields.io/badge/ReaLTaiizor-FF6A00?style=for-the-badge&logoColor=white)
+![iTextSharp](https://img.shields.io/badge/iTextSharp-D32F2F?style=for-the-badge&logoColor=white)
 
-### Bases de Datos
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Herramientas
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -126,6 +56,9 @@ Soy estudiante de **Tecnicatura Universitaria en Programación** en la UTN, apas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Bases de Datos
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
@@ -175,6 +108,86 @@ Soy estudiante de **Tecnicatura Universitaria en Programación** en la UTN, apas
 
 ---
 
+## 💻 Proyectos
+
+### 🍽️ Sistema de Control de Almuerzos
+> Sistema empresarial para gestión integral de comedores corporativos
+
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra)
+[![C#](https://img.shields.io/badge/C%23-10.0-green)](https://github.com/f-Rra)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-red)](https://github.com/f-Rra)
+[![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
+
+**Sistema completo de gestión de comedores corporativos** con registro de comensales, control de servicios y reportes automatizados. Preparado para implementación RFID.
+
+#### ✨ Características 
+- 🏗️ **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
+- 🎫 **Sistema RFID-ready** para registro automático de comensales
+- 📊 **Reportes** con exportación a PDF
+- ⏱️ **Visualización en tiempo real** para personal de cocina
+- 📈 **Estadísticas** por empresa, período y lugar
+- 🔒 **Validaciones robustas** en todas las capas
+- 💾 **Sistema de respaldos** automáticos y manuales
+- 📝 **Documentación completa** (README técnico + Manual de usuario + Guía RFID)
+
+#### 🛠️ Stack Tecnológico
+- **Backend**: C# (.NET Framework 4.8)
+- **Base de Datos**: SQL Server con triggers, vistas y stored procedures
+- **Frontend**: Windows Forms con ReaLTaiizor
+- **Reportes**: iTextSharp para generación de PDFs
+- **Arquitectura**: Patrón de 3 capas + Mappers, Gestores y Helpers
+
+#### 📌 Destacados Técnicos
+✅ procedimientos almacenados optimizados  
+✅ triggers para validaciones y actualizaciones automáticas  
+✅ vistas especializadas para consultas optimizadas  
+✅ Sistema de gestión completo ABML para todas las entidades  
+✅ Manejo centralizado de excepciones y mensajería  
+✅ Cronómetro en tiempo real con gestores especializados
+
+[🔗 Ver Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos) | [📖 Ver Documentación](https://github.com/f-Rra/Sistema-Control-Almuerzos/blob/main/README.md)
+
+---
+
+### 🏪 Sistema de Gestión Comercial
+> Solución integral para administración de inventarios, ventas y reportes empresariales
+
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8.1-blue)](https://github.com/f-Rra)
+[![C#](https://img.shields.io/badge/C%23-7.3-green)](https://github.com/f-Rra)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
+[![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
+
+**Sistema completo de gestión comercial** con control de inventarios, procesamiento de ventas, gestión de stock y sistema de reportes con exportación.
+
+#### ✨ Características
+- 🏗️ **Arquitectura en 3 capas** robusta y escalable
+- 🔐 **Sistema de autenticación** con roles diferenciados (Admin/Vendedor)
+- 🛒 **Sistema de ventas** con carrito interactivo y actualización automática de stock
+- 📦 **Gestión completa de inventarios** con operaciones CRUD
+- 📊 **Módulo de reportes** con estadísticas por categorías y marcas
+- ⚡ **Actualizaciones en tiempo real** mediante triggers de BD
+- 💾 **Transacciones seguras** con rollback automático
+- 📝 **Documentación completa** (README + Especificación técnica + Manual de usuario)
+
+#### 🛠️ Stack Tecnológico
+- **Backend**: C# (.NET Framework 4.8)
+- **Base de Datos**: SQL Server con triggers, vistas y stored procedures
+- **Frontend**: Windows Forms con controles personalizados
+- **Seguridad**: Autenticación por roles con control granular
+- **Arquitectura**: Separación de responsabilidades en 3 capas
+
+#### 📌 Destacados Técnicos
+✅ procedimientos almacenados para operaciones críticas  
+✅ triggers para validaciones y actualización automática de stock  
+✅ vistas especializadas para estadísticas en tiempo real  
+✅ Sistema de roles con permisos diferenciados  
+✅ Carrito de compras con validación de stock disponible  
+✅ Exportación de reportes a PNG/PDF
+
+[🔗 Ver Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial) | [📖 Ver Documentación](https://github.com/f-Rra/Sistema-Gestion-Comercial/blob/main/README.md)
+
+---
+
 ## 🎓 Formación Académica
 
 **Tecnicatura Universitaria en Programación**  
@@ -204,8 +217,7 @@ Soy estudiante de **Tecnicatura Universitaria en Programación** en la UTN, apas
 
 ---
 
-### ⭐ Si te interesan mis proyectos, no dudes en darles una estrella
-
-**¡Gracias por visitar mi perfil!** 👋
-
 </div>
+
+### ¡Gracias por visitar mi perfil! 👋
+
