@@ -16,15 +16,22 @@
 
 ## 🚀 Sobre Mí
 
-Actualmente me especializo en **C#**, **SQL Server** y **.NET Framework**, con experiencia en desarrollo web usando **ASP.NET**. 
+Me especializo en **C#**, **SQL Server** y **.NET Framework**, con experiencia en desarrollo web usando **ASP.NET**. 
 
 Cuento con conocimientos en algoritmos, estructuras de datos, programación orientada a objetos, patrones de diseño y arquitecturas en capas.
-
-Estoy enfocado en aprender sobre **ASP.NET MVC** y **Entity Framework**, y próximamente trabajaré con **Java** en las últimas materias de la carrera. Soy un desarrollador detallista, responsable y comprometido, con un enfoque en trabajo eficiente y puntual.
 
 Tengo **17 materias cursadas y aprobadas** en la Tecnicatura Universitaria en Programación, incluyendo formación avanzada en programación, gestión de bases de datos, arquitectura de sistemas y metodologías de desarrollo de software. 
 
 [📄 Ver Actividad Académica](https://github.com/f-Rra/f-Rra/blob/main/Actividad_Academica.pdf)
+
+---
+
+## 🌱 Actualmente
+
+- 🎓 Cursando últimas materias de la Tecnicatura Universitaria en Programación
+- 🌐 Enfocado en aprender ASP.NET MVC y Entity Framework
+- ☕ Próximamente trabajando con Java en materias avanzadas de la carrera
+- 🚀 Preparando migración de proyectos desktop a aplicaciones web
 
 ---
 
@@ -185,25 +192,6 @@ Tengo **17 materias cursadas y aprobadas** en la Tecnicatura Universitaria en Pr
 ✅ Exportación de reportes a PNG/PDF
 
 [🔗 Ver Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial) | [📖 Ver Documentación](https://github.com/f-Rra/Sistema-Gestion-Comercial/blob/main/README.md)
-
----
-
-## 🎓 Formación Académica
-
-**Tecnicatura Universitaria en Programación**  
-📍 Universidad Tecnológica Nacional - Facultad Regional Pacheco  
-📅 En curso | Plan 2023 y 2024
-
----
-
-## 🌱 Actualmente
-
-- 🎓 Cursando ultimas materias de la Tecnicatura Universitaria en Programación
-- 🌐 Aprendiendo desarrollo web con ASP.NET MVC + Entity Framework + Identity
-- 💼 Desarrollando sistemas empresariales con arquitecturas robustas
-- 📚 Profundizando en patrones de diseño y arquitectura en capas
-- 🔍 Explorando mejores prácticas de desarrollo web moderno
-- 🚀 Preparando migración de aplicaciones desktop a aplicaciones web con ASP.NET
 
 ---
 
