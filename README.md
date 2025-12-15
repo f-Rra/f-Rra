@@ -2,32 +2,22 @@
 
 <div>
   
-###  Estudiante de Tecnicatura Universitaria en Programación
-**Universidad Tecnológica Nacional - Facultad Regional Pacheco**
+###  Estudiante de Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional - FRGP
+
+Mi experiencia práctica desarrollando se centra en **C++**, **C#**, **SQL Server**, **.NET Framework** y **ASP.NET**.
+
+Con 17/24 materias aprobadas, mi formación incluye conocimientos en algoritmos, programación orientada a objetos, diseño de bases de datos relacionales y arquitectura de sistemas en capas. 
+
+Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado en ASP.NET MVC y Entity Framework para transformar mis proyectos desktop en aplicaciones web escalables.
+
+---
 
 [![Email](https://img.shields.io/badge/Email-Facundo.Herrera%40alumnos.frgp.utn.edu.ar-red?logo=gmail&logoColor=white)](mailto:Facundo.Herrera@Alumnos.Frgp.Utn.Edu.ar)
+[![Actividad Académica](https://img.shields.io/badge/Actividad_Académica-Ver_PDF-green?logo=adobeacrobatreader&logoColor=white)](https://github.com/f-Rra/f-Rra/blob/main/Actividad_Academica.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo_Herrera-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-rra/)
 [![Discord](https://img.shields.io/badge/Discord-f--Rra-5865F2?logo=discord&logoColor=white)](https://discord.com/users/710106527)
-[![GitHub](https://img.shields.io/badge/GitHub-f--Rra-181717?logo=github&logoColor=white)](https://github.com/f-Rra)
 
 </div>
-
----
-
-##  Sobre Mí
-
-Me especializo en **C#**, **SQL Server** y **.NET Framework**, con experiencia práctica en desarrollo web usando **ASP.NET** y conocimientos en algoritmos, estructuras de datos y patrones de diseño. 
-
-He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación en programación orientada a objetos, diseño de bases de datos relacionales, arquitectura de sistemas en capas y metodologías de desarrollo.
-
-[📄 Ver Actividad Académica](https://github.com/f-Rra/f-Rra/blob/main/Actividad_Academica.pdf)
-
----
-
-### 🔹 Actualmente
-- 🎓 Cursando últimas materias de la Tecnicatura Universitaria en Programación
-- 🌐 Enfocado en aprender ASP.NET MVC y Entity Framework
-- 🚀 Preparando migración de proyectos desktop a aplicaciones web
 
 ---
 
@@ -72,11 +62,11 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 ### Programación Orientada a Objetos
 -  **Fundamentos de programación** - Ciclos, decisiones, vectores, cadenas de caracteres
 -  **Estructuras de control** - Ciclos combinados, funciones y procedimientos
--  **POO** - Clases, objetos, encapsulamiento, herencia, polimorfismo
+-  **POO** - Clases, objetos, constructores, encapsulamiento, herencia, polimorfismo
 -  **Análisis y diseño** - Modelado orientado a objetos
 
 ### Arquitectura y Diseño
--  **Arquitectura en 3 capas** - Separación clara de responsabilidades
+-  **Arquitectura en 3 capas** - Separación de responsabilidades
 -  **Diseño de bases de datos relacionales** - Normalización y optimización
 -  **Patrones de diseño** - Mappers, Helpers, Gestores especializados
 -  **Modelado de datos** - Diagramas ER completos
@@ -96,7 +86,7 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 ### Bases de Datos
 -  **SQL Server** - Administración y optimización
 -  **T-SQL avanzado** - Consultas complejas
--  **Integridad referencial** - Constraints y relaciones bien definidas
+-  **Integridad referencial** - Constraints y relaciones definidas
 
 ---
 
