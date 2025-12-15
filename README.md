@@ -24,11 +24,9 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 
 ---
 
-##  Actualmente
-
+### 🔹 Actualmente
 - 🎓 Cursando últimas materias de la Tecnicatura Universitaria en Programación
 - 🌐 Enfocado en aprender ASP.NET MVC y Entity Framework
-- ☕ Próximamente trabajando con Java en materias avanzadas de la carrera
 - 🚀 Preparando migración de proyectos desktop a aplicaciones web
 
 ---
@@ -47,6 +45,7 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ReaLTaiizor](https://img.shields.io/badge/ReaLTaiizor-FF6A00?style=for-the-badge&logoColor=white)
@@ -55,12 +54,13 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 
 ### Herramientas
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Bases de Datos
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -89,7 +89,7 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 
 ### Desarrollo Frontend
 -  **Windows Forms & Librerias** - Interfaces de usuario modernas
--  **CRUD completo** - Altas, bajas, modificaciones y listados
+-  **ABML completo** - Altas, bajas, modificaciones y listados
 -  **Validaciones de entrada** - Experiencia de usuario robusta
 -  **Controles personalizados** - Componentes reutilizables
   
@@ -98,16 +98,11 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 -  **T-SQL avanzado** - Consultas complejas
 -  **Integridad referencial** - Constraints y relaciones bien definidas
 
-### Buenas Prácticas
--  **Código limpio y mantenible** - Estándares de codificación
--  **Seguridad** - Prevención de SQL Injection, validaciones
--  **Control de versiones** - Git y GitHub
-
 ---
 
 ##  Mis Proyectos
 
-### 🍽️ Sistema de Control de Almuerzos
+### 🍽️ Sistema Control de Almuerzos
 > Sistema empresarial para gestión integral de comedores corporativos
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra)
@@ -115,19 +110,17 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-red)](https://github.com/f-Rra)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
 
-**Sistema completo de gestión de comedores corporativos** con registro de comensales, control de servicios y reportes automatizados. Preparado para implementación RFID.
-
 ####  🔹 Características 
 - 🏗️ **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
-- 🎫 **Sistema RFID-ready** para registro automático de comensales
+- 🎫 **Sistema RFID** para registro automático de comensales
 - 📊 **Reportes** con exportación a PDF
-- ⏱️ **Visualización en tiempo real** para personal de cocina
+- ⏱️ **Visualización en tiempo real** para personal
 - 📈 **Estadísticas** por empresa, período y lugar
 - 🔒 **Validaciones robustas** en todas las capas
 - 💾 **Sistema de respaldos** automáticos y manuales
 - 📝 **Documentación completa** (README técnico + Manual de usuario + Guía RFID)
 
-[🔗 Ver Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos) | [📖 Ver Documentación](https://github.com/f-Rra/Sistema-Control-Almuerzos/blob/main/README.md)
+[🔗 Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos) | [📖 Documentación](https://github.com/f-Rra/Sistema-Control-Almuerzos/blob/main/README.md)
 
 ---
 
@@ -139,27 +132,26 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
 
-**Sistema completo de gestión comercial** con control de inventarios, procesamiento de ventas, gestión de stock y sistema de reportes con exportación.
-
 ####  🔹 Características
 - 🏗️ **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
-- 🔐 **Sistema de autenticación** con roles diferenciados (Admin/Vendedor)
-- 🛒 **Sistema de ventas** con carrito interactivo y actualización automática de stock
-- 📦 **Gestión completa de inventarios** con operaciones CRUD
-- 📊 **Módulo de reportes** con estadísticas por categorías y marcas
+- 🔐 **Sistema de autenticación** con roles diferenciados 
+- 🛒 **Sistema de ventas** con carrito interactivo y actualización de stock
+- 📦 **Gestión completa de inventarios** con operaciones ABML
+- 📊 **Módulo de reportes** con estadísticas
 - ⚡ **Actualizaciones en tiempo real** mediante triggers de BD
 - 💾 **Transacciones seguras** con rollback automático
 - 📝 **Documentación completa** (README + Especificación técnica + Manual de usuario)
 
-[🔗 Ver Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial) | [📖 Ver Documentación](https://github.com/f-Rra/Sistema-Gestion-Comercial/blob/main/README.md)
+[🔗 Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial) | [📖 Documentación](https://github.com/f-Rra/Sistema-Gestion-Comercial/blob/main/README.md)
 
 ---
 
 ##  Mis Objetivos
 
--  Finalizar la Tecnicatura Universitaria en Programación
 -  Obtener experiencia profesional en desarrollo de software
+-  Desarrollar habilidades en Java durante el próximo cuatrimestre
 -  Implementar sistema RFID en Sistema Control de Almuerzos
+-  Finalizar la Tecnicatura Universitaria en Programación
 -  Dominar ASP.NET Core y Entity Framework
 -  Ampliar portafolio con nuevos proyectos
   
