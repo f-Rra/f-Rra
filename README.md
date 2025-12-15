@@ -16,11 +16,9 @@
 
 ## 🚀 Sobre Mí
 
-Me especializo en **C#**, **SQL Server** y **.NET Framework**, con experiencia en desarrollo web usando **ASP.NET**. 
+Me especializo en **C#**, **SQL Server** y **.NET Framework**, con experiencia práctica en desarrollo web usando **ASP.NET** y conocimientos en algoritmos, estructuras de datos y patrones de diseño. 
 
-Cuento con conocimientos en algoritmos, estructuras de datos, programación orientada a objetos, patrones de diseño y arquitecturas en capas.
-
-Tengo **17 materias cursadas y aprobadas** en la Tecnicatura Universitaria en Programación, incluyendo formación avanzada en programación, gestión de bases de datos, arquitectura de sistemas y metodologías de desarrollo de software. 
+He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación en programación orientada a objetos, diseño de bases de datos relacionales, arquitectura de sistemas en capas y metodologías de desarrollo.
 
 [📄 Ver Actividad Académica](https://github.com/f-Rra/f-Rra/blob/main/Actividad_Academica.pdf)
 
