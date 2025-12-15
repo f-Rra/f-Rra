@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Sobre Mí
+##  Sobre Mí
 
 Me especializo en **C#**, **SQL Server** y **.NET Framework**, con experiencia práctica en desarrollo web usando **ASP.NET** y conocimientos en algoritmos, estructuras de datos y patrones de diseño. 
 
@@ -24,7 +24,7 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 
 ---
 
-## 🌱 Actualmente
+##  Actualmente
 
 - 🎓 Cursando últimas materias de la Tecnicatura Universitaria en Programación
 - 🌐 Enfocado en aprender ASP.NET MVC y Entity Framework
@@ -33,7 +33,7 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ### Lenguajes
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -67,53 +67,45 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 
 ---
 
-## 💡 Habilidades Técnicas
+##  Habilidades Técnicas
 
 ### Programación Orientada a Objetos
-- ✅ **Fundamentos de programación** - Ciclos, decisiones, vectores, cadenas de caracteres
-- ✅ **Estructuras de control** - Ciclos combinados, funciones y procedimientos
-- ✅ **POO** - Clases, objetos, encapsulamiento, herencia, polimorfismo
-- ✅ **Análisis y diseño** - Modelado orientado a objetos
+-  **Fundamentos de programación** - Ciclos, decisiones, vectores, cadenas de caracteres
+-  **Estructuras de control** - Ciclos combinados, funciones y procedimientos
+-  **POO** - Clases, objetos, encapsulamiento, herencia, polimorfismo
+-  **Análisis y diseño** - Modelado orientado a objetos
 
 ### Arquitectura y Diseño
-- ✅ **Arquitectura en 3 capas** - Separación clara de responsabilidades
-- ✅ **Diseño de bases de datos relacionales** - Normalización y optimización
-- ✅ **Patrones de diseño** - Mappers, Helpers, Gestores especializados
-- ✅ **Modelado de datos** - Diagramas ER completos
+-  **Arquitectura en 3 capas** - Separación clara de responsabilidades
+-  **Diseño de bases de datos relacionales** - Normalización y optimización
+-  **Patrones de diseño** - Mappers, Helpers, Gestores especializados
+-  **Modelado de datos** - Diagramas ER completos
 
 ### Desarrollo Backend
-- ✅ **Procedimientos almacenados** - Lógica de negocio en SQL Server
-- ✅ **Triggers y Vistas** - Automatización y optimización de consultas
-- ✅ **Manejo de transacciones** - ACID y rollback automático
-- ✅ **Validaciones robustas** - En todas las capas de la aplicación
-
-### Bases de Datos
-- ✅ **SQL Server** - Administración y optimización
-- ✅ **T-SQL avanzado** - Consultas complejas, CTEs, funciones de ventana
-- ✅ **Optimización de consultas** - Índices, planes de ejecución
-- ✅ **Integridad referencial** - Constraints y relaciones bien definidas
+-  **Procedimientos almacenados** - Lógica de negocio en SQL Server
+-  **Triggers y Vistas** - Automatización y optimización de consultas
+-  **Manejo de transacciones** - ACID y rollback automático
+-  **Validaciones robustas** - En todas las capas
 
 ### Desarrollo Frontend
-- ✅ **Windows Forms** - Interfaces de usuario modernas
-- ✅ **CRUD completo** - Altas, bajas, modificaciones y listados
-- ✅ **Validaciones de entrada** - Experiencia de usuario robusta
-- ✅ **Controles personalizados** - Componentes reutilizables
-
-### Documentación
-- ✅ **Documentación técnica completa** - READMEs detallados
-- ✅ **Manuales de usuario** - Guías paso a paso ilustradas
-- ✅ **Especificaciones técnicas** - Arquitectura y flujos documentados
-- ✅ **Guías de implementación** - Instrucciones claras de instalación
+-  **Windows Forms & Librerias** - Interfaces de usuario modernas
+-  **CRUD completo** - Altas, bajas, modificaciones y listados
+-  **Validaciones de entrada** - Experiencia de usuario robusta
+-  **Controles personalizados** - Componentes reutilizables
+  
+### Bases de Datos
+-  **SQL Server** - Administración y optimización
+-  **T-SQL avanzado** - Consultas complejas
+-  **Integridad referencial** - Constraints y relaciones bien definidas
 
 ### Buenas Prácticas
-- ✅ **Código limpio y mantenible** - Estándares de codificación
-- ✅ **Manejo de excepciones** - Try-catch centralizado
-- ✅ **Seguridad** - Prevención de SQL Injection, validaciones
-- ✅ **Control de versiones** - Git y GitHub
+-  **Código limpio y mantenible** - Estándares de codificación
+-  **Seguridad** - Prevención de SQL Injection, validaciones
+-  **Control de versiones** - Git y GitHub
 
 ---
 
-## 💻 Proyectos
+##  Mis Proyectos
 
 ### 🍽️ Sistema de Control de Almuerzos
 > Sistema empresarial para gestión integral de comedores corporativos
@@ -163,7 +155,7 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Mis Objetivos
 
 - 🔹 Obtener experiencia profesional en desarrollo de software
 - 🔹 Completar proyectos de migración a aplicación web
