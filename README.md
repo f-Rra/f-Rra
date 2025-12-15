@@ -117,7 +117,7 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 
 **Sistema completo de gestión de comedores corporativos** con registro de comensales, control de servicios y reportes automatizados. Preparado para implementación RFID.
 
-#### ✨ Características 
+####  🔹 Características 
 - 🏗️ **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
 - 🎫 **Sistema RFID-ready** para registro automático de comensales
 - 📊 **Reportes** con exportación a PDF
@@ -141,7 +141,7 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 
 **Sistema completo de gestión comercial** con control de inventarios, procesamiento de ventas, gestión de stock y sistema de reportes con exportación.
 
-#### ✨ Características
+####  🔹 Características
 - 🏗️ **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
 - 🔐 **Sistema de autenticación** con roles diferenciados (Admin/Vendedor)
 - 🛒 **Sistema de ventas** con carrito interactivo y actualización automática de stock
@@ -155,17 +155,17 @@ He aprobado 17 materias de la Tecnicatura Universitaria, incluyendo formación e
 
 ---
 
-## 🎯 Mis Objetivos
+##  Mis Objetivos
 
-- 🔹 Obtener experiencia profesional en desarrollo de software
-- 🔹 Completar proyectos de migración a aplicación web
-- 🔹 Implementar sistema RFID en Sistema de Control de Almuerzos
-- 🔹 Ampliar portafolio con proyectos web (ASP.NET Core)
-- 🔹 Contribuir a proyectos open source
-
+-  Finalizar la Tecnicatura Universitaria en Programación
+-  Obtener experiencia profesional en desarrollo de software
+-  Implementar sistema RFID en Sistema Control de Almuerzos
+-  Dominar ASP.NET Core y Entity Framework
+-  Ampliar portafolio con nuevos proyectos
+  
 ---
 
 </div>
 
-### ¡Gracias por visitar mi perfil! 👋
+### ¡Gracias por visitar mi perfil! 
 
