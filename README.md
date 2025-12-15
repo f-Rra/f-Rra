@@ -137,21 +137,6 @@ Tengo **17 materias cursadas y aprobadas** en la Tecnicatura Universitaria en Pr
 - 💾 **Sistema de respaldos** automáticos y manuales
 - 📝 **Documentación completa** (README técnico + Manual de usuario + Guía RFID)
 
-#### 🛠️ Stack Tecnológico
-- **Backend**: C# (.NET Framework 4.8)
-- **Base de Datos**: SQL Server con triggers, vistas y stored procedures
-- **Frontend**: Windows Forms con ReaLTaiizor
-- **Reportes**: iTextSharp para generación de PDFs
-- **Arquitectura**: Patrón de 3 capas + Mappers, Gestores y Helpers
-
-#### 📌 Destacados Técnicos
-✅ procedimientos almacenados optimizados  
-✅ triggers para validaciones y actualizaciones automáticas  
-✅ vistas especializadas para consultas optimizadas  
-✅ Sistema de gestión completo ABML para todas las entidades  
-✅ Manejo centralizado de excepciones y mensajería  
-✅ Cronómetro en tiempo real con gestores especializados
-
 [🔗 Ver Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos) | [📖 Ver Documentación](https://github.com/f-Rra/Sistema-Control-Almuerzos/blob/main/README.md)
 
 ---
@@ -167,7 +152,7 @@ Tengo **17 materias cursadas y aprobadas** en la Tecnicatura Universitaria en Pr
 **Sistema completo de gestión comercial** con control de inventarios, procesamiento de ventas, gestión de stock y sistema de reportes con exportación.
 
 #### ✨ Características
-- 🏗️ **Arquitectura en 3 capas** robusta y escalable
+- 🏗️ **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
 - 🔐 **Sistema de autenticación** con roles diferenciados (Admin/Vendedor)
 - 🛒 **Sistema de ventas** con carrito interactivo y actualización automática de stock
 - 📦 **Gestión completa de inventarios** con operaciones CRUD
@@ -175,21 +160,6 @@ Tengo **17 materias cursadas y aprobadas** en la Tecnicatura Universitaria en Pr
 - ⚡ **Actualizaciones en tiempo real** mediante triggers de BD
 - 💾 **Transacciones seguras** con rollback automático
 - 📝 **Documentación completa** (README + Especificación técnica + Manual de usuario)
-
-#### 🛠️ Stack Tecnológico
-- **Backend**: C# (.NET Framework 4.8)
-- **Base de Datos**: SQL Server con triggers, vistas y stored procedures
-- **Frontend**: Windows Forms con controles personalizados
-- **Seguridad**: Autenticación por roles con control granular
-- **Arquitectura**: Separación de responsabilidades en 3 capas
-
-#### 📌 Destacados Técnicos
-✅ procedimientos almacenados para operaciones críticas  
-✅ triggers para validaciones y actualización automática de stock  
-✅ vistas especializadas para estadísticas en tiempo real  
-✅ Sistema de roles con permisos diferenciados  
-✅ Carrito de compras con validación de stock disponible  
-✅ Exportación de reportes a PNG/PDF
 
 [🔗 Ver Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial) | [📖 Ver Documentación](https://github.com/f-Rra/Sistema-Gestion-Comercial/blob/main/README.md)
 
