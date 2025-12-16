@@ -2,18 +2,18 @@
 
 <div>
   
-###  Estudiante de Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional - FRGP
+###  Estudiante de Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional (FRGP)
 
 Mi experiencia práctica desarrollando se centra en **C++**, **C#**, **SQL Server**, **.NET Framework** y **ASP.NET**.
 
 Con 17/24 materias aprobadas, mi formación incluye conocimientos en algoritmos, programación orientada a objetos, diseño de bases de datos relacionales y arquitectura de sistemas en capas. 
 
-Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado en ASP.NET MVC y Entity Framework para transformar mis proyectos desktop en aplicaciones web escalables.
+Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado en ASP.NET MVC y Entity Framework, para transformar mis proyectos desktop en aplicaciones web escalables.
 
 ---
 
-[![Email](https://img.shields.io/badge/Email-Facundo.Herrera%40alumnos.frgp.utn.edu.ar-red?logo=gmail&logoColor=white)](mailto:Facundo.Herrera@Alumnos.Frgp.Utn.Edu.ar)
 [![Actividad Académica](https://img.shields.io/badge/Actividad_Académica-Ver_PDF-green?logo=adobeacrobatreader&logoColor=white)](https://github.com/f-Rra/f-Rra/blob/main/Actividad_Academica.pdf)
+[![Email](https://img.shields.io/badge/Email-Facundo.Herrera%40alumnos.frgp.utn.edu.ar-red?logo=gmail&logoColor=white)](mailto:Facundo.Herrera@Alumnos.Frgp.Utn.Edu.ar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo_Herrera-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-rra/)
 [![Discord](https://img.shields.io/badge/Discord-f--Rra-5865F2?logo=discord&logoColor=white)](https://discord.com/users/710106527)
 
@@ -41,7 +41,6 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 ![ReaLTaiizor](https://img.shields.io/badge/ReaLTaiizor-FF6A00?style=for-the-badge&logoColor=white)
 ![iTextSharp](https://img.shields.io/badge/iTextSharp-D32F2F?style=for-the-badge&logoColor=white)
 
-
 ### Herramientas
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -60,33 +59,31 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 ##  Habilidades Técnicas
 
 ### Programación Orientada a Objetos
+-  **Análisis y diseño** - Modelado orientado a objetos
 -  **Fundamentos de programación** - Ciclos, decisiones, vectores, cadenas de caracteres
 -  **Estructuras de control** - Ciclos combinados, funciones y procedimientos
--  **POO** - Clases, objetos, constructores, encapsulamiento, herencia, polimorfismo
--  **Análisis y diseño** - Modelado orientado a objetos
+-  **POO** - Clases, objetos, encapsulamiento, herencia, polimorfismo
 
-### Arquitectura y Diseño
--  **Arquitectura en 3 capas** - Separación de responsabilidades
+### Arquitectura & Diseño
+-  **Arquitectura en 3 capas** - Separación clara de responsabilidades
 -  **Diseño de bases de datos relacionales** - Normalización y optimización
 -  **Patrones de diseño** - Mappers, Helpers, Gestores especializados
 -  **Modelado de datos** - Diagramas ER completos
 
-### Desarrollo Backend
+### Desarrollo Backend & Bases de Datos
 -  **Procedimientos almacenados** - Lógica de negocio en SQL Server
 -  **Triggers y Vistas** - Automatización y optimización de consultas
--  **Manejo de transacciones** - ACID y rollback automático
+-  **Manejo de transacciones** - Rollback automático
+-  **T-SQL avanzado** - Consultas complejas
+-  **Integridad referencial** - Constraints y relaciones definidas
 -  **Validaciones robustas** - En todas las capas
 
 ### Desarrollo Frontend
--  **Windows Forms & Librerias** - Interfaces de usuario modernas
--  **ABML completo** - Altas, bajas, modificaciones y listados
--  **Validaciones de entrada** - Experiencia de usuario robusta
+-  **Integración de librerías** - ReaLTaiizor & iTextSharp
 -  **Controles personalizados** - Componentes reutilizables
-  
-### Bases de Datos
--  **SQL Server** - Administración y optimización
--  **T-SQL avanzado** - Consultas complejas
--  **Integridad referencial** - Constraints y relaciones definidas
+-  **Rendimiento UI** - Optimización de carga y respuesta
+-  **Validaciones de entrada** - Experiencia de usuario robusta
+-  **ABML completo** - Altas, bajas, modificaciones y listados
 
 ---
 
@@ -117,7 +114,7 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 ### 🏪 Sistema de Gestión Comercial
 > Solución integral para administración de inventarios, ventas y reportes empresariales
 
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8.1-blue)](https://github.com/f-Rra)
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra)
 [![C#](https://img.shields.io/badge/C%23-7.3-green)](https://github.com/f-Rra)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
