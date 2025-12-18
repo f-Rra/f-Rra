@@ -94,12 +94,12 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 
 ####  🔹 Características 
 - 🏗️ **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
-- 🎫 **Sistema RFID** para registro automático de comensales
-- 📊 **Reportes** con exportación a PDF
-- ⏱️ **Visualización en tiempo real** para personal
-- 📈 **Estadísticas** por empresa, período y lugar
-- 🔒 **Validaciones robustas** en todas las capas
+- 🍽️ **Gestión de servicios de almuerzo** por jornada y lugar
+- ⚡ **Optimizado para alta concurrencia** - Horarios pico de almuerzo
+- 🏢 **Gestión multi-empresa** - Control de múltiples compañías
 - 💾 **Sistema de respaldos** automáticos y manuales
+- 🔒 **Validaciones** en todas las capas
+- 📊 **Reportes** con exportación a PDF
 - 📝 **Documentación completa** (README técnico + Manual de usuario + Guía RFID)
 
 [🔗 Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos) | [📖 Documentación](https://github.com/f-Rra/Sistema-Control-Almuerzos/blob/main/README.md)
@@ -120,7 +120,7 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 - 🛒 **Sistema de ventas** con carrito interactivo y actualización de stock
 - 📦 **Gestión completa de inventarios** con operaciones ABML
 - 📊 **Módulo de reportes** con estadísticas
-- ⚡ **Actualizaciones en tiempo real** mediante triggers de BD
+- ⚡ **Actualizaciones en tiempo real** mediante triggers
 - 💾 **Transacciones seguras** con rollback automático
 - 📝 **Documentación completa** (README + Especificación técnica + Manual de usuario)
 
