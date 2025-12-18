@@ -10,13 +10,6 @@ Con 17/24 materias aprobadas, mi formación incluye conocimientos en algoritmos,
 
 Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado en ASP.NET MVC y Entity Framework, para transformar mis proyectos desktop en aplicaciones web escalables.
 
----
-
-[![Actividad Académica](https://img.shields.io/badge/Actividad_Académica-Ver_PDF-green?logo=adobeacrobatreader&logoColor=white)](https://github.com/f-Rra/f-Rra/blob/main/Actividad_Academica.pdf)
-[![Email](https://img.shields.io/badge/Email-Facundo.Herrera%40alumnos.frgp.utn.edu.ar-red?logo=gmail&logoColor=white)](mailto:Facundo.Herrera@Alumnos.Frgp.Utn.Edu.ar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo_Herrera-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-rra/)
-[![Discord](https://img.shields.io/badge/Discord-f--Rra-5865F2?logo=discord&logoColor=white)](https://discord.com/users/710106527)
-
 </div>
 
 ---
@@ -143,8 +136,11 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 -  Ampliar portafolio con nuevos proyectos
   
 ---
+[![Actividad Académica](https://img.shields.io/badge/Actividad_Académica-Ver_PDF-green?logo=adobeacrobatreader&logoColor=white)](https://github.com/f-Rra/f-Rra/blob/main/Actividad_Academica.pdf)
+[![Email](https://img.shields.io/badge/Email-Facundo.Herrera%40alumnos.frgp.utn.edu.ar-red?logo=gmail&logoColor=white)](mailto:Facundo.Herrera@Alumnos.Frgp.Utn.Edu.ar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo_Herrera-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-rra/)
+[![Discord](https://img.shields.io/badge/Discord-f--Rra-5865F2?logo=discord&logoColor=white)](https://discord.com/users/710106527)
 
 </div>
 
-### ¡Gracias por visitar mi perfil! 
 
