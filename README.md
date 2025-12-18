@@ -100,7 +100,7 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 - 💾 **Sistema de respaldos** automáticos y manuales
 - 🔒 **Validaciones** en todas las capas
 - 📊 **Reportes** con exportación a PDF
-- 📝 **Documentación completa** (README técnico + Manual de usuario + Guía RFID)
+- 📝 **Documentación completa** (README + Manual + Guía RFID)
 
 [🔗 Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos) | [📖 Documentación](https://github.com/f-Rra/Sistema-Control-Almuerzos/blob/main/README.md)
 
@@ -122,7 +122,7 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 - 📊 **Módulo de reportes** con estadísticas
 - ⚡ **Actualizaciones en tiempo real** mediante triggers
 - 💾 **Transacciones seguras** con rollback automático
-- 📝 **Documentación completa** (README + Especificación técnica + Manual de usuario)
+- 📝 **Documentación completa** (README + Manual)
 
 [🔗 Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial) | [📖 Documentación](https://github.com/f-Rra/Sistema-Gestion-Comercial/blob/main/README.md)
 
