@@ -51,40 +51,9 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 
 ---
 
-##  Habilidades Técnicas
-
-### Programación Orientada a Objetos
--  **Análisis y diseño** - Modelado orientado a objetos
--  **Fundamentos de programación** - Ciclos, decisiones, vectores, cadenas de caracteres
--  **Estructuras de control** - Ciclos combinados, funciones y procedimientos
--  **POO** - Clases, objetos, encapsulamiento, herencia, polimorfismo
-
-### Arquitectura & Diseño
--  **Arquitectura en 3 capas** - Separación clara de responsabilidades
--  **Diseño de bases de datos relacionales** - Normalización y optimización
--  **Patrones de diseño** - Mappers, Helpers, Gestores especializados
--  **Modelado de datos** - Diagramas ER completos
-
-### Desarrollo Backend & Bases de Datos
--  **Procedimientos almacenados** - Lógica de negocio en SQL Server
--  **Triggers y Vistas** - Automatización y optimización de consultas
--  **Manejo de transacciones** - Rollback automático
--  **T-SQL avanzado** - Consultas complejas
--  **Integridad referencial** - Constraints y relaciones definidas
--  **Validaciones robustas** - En todas las capas
-
-### Desarrollo Frontend
--  **Integración de librerías** - ReaLTaiizor & iTextSharp
--  **Controles personalizados** - Componentes reutilizables
--  **Rendimiento UI** - Optimización de carga y respuesta
--  **Validaciones de entrada** - Experiencia de usuario robusta
--  **ABML completo** - Altas, bajas, modificaciones y listados
-
----
-
 ##  Mis Proyectos
 
-### 🍽️ Sistema Control de Almuerzos
+### Sistema Control de Almuerzos
 > Sistema empresarial para gestión integral de comedores corporativos
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra)
@@ -92,21 +61,21 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-red)](https://github.com/f-Rra)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
 
-####  🔹 Características 
-- 🏗️ **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
-- 🍽️ **Gestión de servicios de almuerzo** por jornada y lugar
-- ⚡ **Optimizado para alta concurrencia** - Horarios pico de almuerzo
-- 🏢 **Gestión multi-empresa** - Control de múltiples compañías
-- 💾 **Sistema de respaldos** automáticos y manuales
-- 🔒 **Validaciones** en todas las capas
-- 📊 **Reportes** con exportación a PDF
-- 📝 **Documentación completa** (README + Manual + Guía RFID)
+####  Características 
+-  **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
+-  **Gestión de servicios de almuerzo** por jornada y lugar
+-  **Optimizado para alta concurrencia** - Horarios pico de almuerzo
+-  **Gestión multi-empresa** - Control de múltiples compañías
+-  **Sistema de respaldos** automáticos y manuales
+-  **Validaciones** en todas las capas
+-  **Reportes** con exportación a PDF
+-  **Documentación completa** (README + Manual + Guía RFID)
 
 [🔗 Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos) | [📖 Documentación](https://github.com/f-Rra/Sistema-Control-Almuerzos/blob/main/README.md)
 
 ---
 
-### 🏪 Sistema de Gestión Comercial
+### Sistema de Gestión Comercial
 > Solución integral para administración de inventarios, ventas y reportes empresariales
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra)
@@ -114,15 +83,15 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
 
-####  🔹 Características
-- 🏗️ **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
-- 🔐 **Sistema de autenticación** con roles diferenciados 
-- 🛒 **Sistema de ventas** con carrito interactivo y actualización de stock
-- 📦 **Gestión completa de inventarios** con operaciones ABML
-- 📊 **Módulo de reportes** con estadísticas
-- ⚡ **Actualizaciones en tiempo real** mediante triggers
-- 💾 **Transacciones seguras** con rollback automático
-- 📝 **Documentación completa** (README + Manual)
+####  Características
+-  **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
+-  **Sistema de autenticación** con roles diferenciados 
+-  **Sistema de ventas** con carrito interactivo y actualización de stock
+-  **Gestión completa de inventarios** con operaciones ABML
+-  **Módulo de reportes** con estadísticas
+-  **Actualizaciones en tiempo real** mediante triggers
+-  **Transacciones seguras** con rollback automático
+-  **Documentación completa** (README + Manual)
 
 [🔗 Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial) | [📖 Documentación](https://github.com/f-Rra/Sistema-Gestion-Comercial/blob/main/README.md)
 
