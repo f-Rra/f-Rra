@@ -2,7 +2,7 @@
 
 <div>
   
-###  Estudiante de Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional (FRGP)
+###  Estudiante de Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional - FRGP
 
 Mi experiencia práctica desarrollando se centra en **C++**, **C#**, **SQL Server**, **.NET Framework** y **ASP.NET**.
 
