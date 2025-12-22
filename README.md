@@ -4,7 +4,7 @@
   
 ###  Estudiante de Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional - FRGP
 
-Mi experiencia práctica desarrollando se centra en **C++**, **C#**, **SQL Server**, **.NET Framework** y **ASP.NET**.
+Mi experiencia práctica desarrollando se centra en **C++**, **C#**, **SQL Server** y **.NET Framework** (**ADO.NET** y **ASP.NET**)
 
 Con 17/24 materias aprobadas, mi formación incluye conocimientos en algoritmos, programación orientada a objetos, diseño de bases de datos relacionales y arquitectura de sistemas en capas. 
 
