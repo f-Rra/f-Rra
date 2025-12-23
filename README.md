@@ -100,7 +100,6 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 ##  Mis Objetivos
 
 -  Obtener experiencia profesional en desarrollo de software
--  Desarrollar habilidades en Java durante el próximo cuatrimestre
 -  Implementar sistema RFID en Sistema Control de Almuerzos
 -  Finalizar la Tecnicatura Universitaria en Programación
 -  Dominar ASP.NET Core y Entity Framework
