@@ -97,16 +97,6 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 
 ---
 
-##  Mis Objetivos
-
--  Obtener experiencia profesional en desarrollo de software
--  Implementar sistema RFID en Sistema Control de Almuerzos
--  Finalizar la Tecnicatura Universitaria en Programación
--  Dominar ASP.NET Core y Entity Framework
--  Ampliar portafolio con nuevos proyectos
-  
----
-
 ##  Contacto
 
 [![Email](https://img.shields.io/badge/Email-Facundo.Herrera%40alumnos.frgp.utn.edu.ar-red?logo=gmail&logoColor=white)](mailto:Facundo.Herrera@Alumnos.Frgp.Utn.Edu.ar)
