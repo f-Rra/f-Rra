@@ -8,7 +8,7 @@ Mi experiencia práctica desarrollando se centra en **C++**, **C#**, **SQL Serve
 
 Con 17/24 materias aprobadas, mi formación incluye conocimientos en algoritmos, programación orientada a objetos, diseño de bases de datos relacionales y arquitectura de sistemas en capas. 
 
-Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado en ASP.NET (MVC) y me encuentro trabajando en la transformación de mis proyectos desktop en aplicaciones web escalables.
+Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado en ASP.NET MVC, profundizando en el patrón Modelo-Vista-Controlador y su implementación práctica, con la intención de migrar próximamente a ASP.NET Core. También planeo incorporar ASP.NET Identity para gestión de usuarios y autenticación.
 
 [![Actividad Académica](https://img.shields.io/badge/Actividad_Académica-Ver_PDF-green?logo=adobeacrobatreader&logoColor=white)](https://github.com/f-Rra/f-Rra/blob/main/Actividad_Academica.pdf)
 
