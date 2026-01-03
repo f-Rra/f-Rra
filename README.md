@@ -64,7 +64,6 @@ Actualmente, en la etapa final de la Tecnicatura, mi aprendizaje está enfocado 
 ####  Características 
 -  **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
 -  **Gestión de servicios de almuerzo** por jornada y lugar
--  **Optimizado para alta concurrencia** - Horarios pico de almuerzo
 -  **Gestión multi-empresa** - Control de múltiples compañías
 -  **Sistema de respaldos** automáticos y manuales
 -  **Validaciones** en todas las capas
