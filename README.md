@@ -23,7 +23,6 @@
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ReaLTaiizor](https://img.shields.io/badge/ReaLTaiizor-FF6A00?style=for-the-badge&logoColor=white)
-![iTextSharp](https://img.shields.io/badge/iTextSharp-D32F2F?style=for-the-badge&logoColor=white)
 
 ### Herramientas
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -59,7 +58,7 @@
 -  **Reportes** con exportación a PDF
 -  **Documentación completa** (README + Manual + Guía RFID)
 
-[🔗 Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos) | [📖 Documentación](https://github.com/f-Rra/Sistema-Control-Almuerzos/blob/main/README.md)
+[🔗 Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos) 
 
 ---
 
@@ -81,7 +80,7 @@
 -  **Transacciones seguras** con rollback automático
 -  **Documentación completa** (README + Manual)
 
-[🔗 Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial) | [📖 Documentación](https://github.com/f-Rra/Sistema-Gestion-Comercial/blob/main/README.md)
+[🔗 Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial)
 
 ---
 
