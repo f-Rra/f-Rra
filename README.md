@@ -1,6 +1,5 @@
+# Facundo Herrera
 
-<div>
-  
 ###  Estudiante de Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional - FRGP
 
 ---
@@ -61,8 +60,8 @@
 
 ---
 
-### Sistema de Gestión Comercial
-> Solución integral para administración de inventarios, ventas y reportes empresariales
+### Sistema de Gestión Comercial (WinForms)
+> Aplicación de escritorio para administración de inventarios y ventas empresariales
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra)
 [![C#](https://img.shields.io/badge/C%23-7.3-green)](https://github.com/f-Rra)
@@ -70,44 +69,44 @@
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
 
 ####  Características
--  **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
--  **Sistema de autenticación** con roles diferenciados 
--  **Sistema de ventas** con carrito interactivo y actualización de stock
--  **Gestión completa de inventarios** con operaciones ABML
--  **Módulo de reportes** con estadísticas
--  **Actualizaciones en tiempo real** mediante triggers
--  **Transacciones seguras** con rollback automático
--  **Documentación completa** (README + Manual)
+- 📐 **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
+- 🔐 **Sistema de autenticación** con roles diferenciados 
+- 🛒 **Módulo de ventas** con carrito interactivo y control de stock
+- 📦 **Gestión completa de inventarios** (ABML de artículos, marcas y categorías)
+- 📊 **Panel de reportes** con estadísticas operativas
+- ⚡ **Actualizaciones automáticas** mediante triggers SQL
+- 🔄 **Transacciones seguras** con rollback automático
+- 📖 **Documentación completa** (README + Manual)
 
 [🔗 Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial)
 
 ---
 
-### SGC-Web: Sistema de Gestión Comercial
-> Evolución web para administración integral de inventarios, ventas y reportes operativos
+### SGC-Web: Migración a Plataforma Web
+> Modernización del SGC a tecnología web manteniendo la lógica de negocio existente
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8.1-blue)](https://github.com/f-Rra)
-[![C#](https://img.shields.io/badge/C%23-7.3-green)](https://github.com/f-Rra)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-WebForms-lightblue)](https://github.com/f-Rra)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
 [![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%205-purple)](https://github.com/f-Rra)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
 
 ####  Características
--  **Arquitectura en 3 capas** (Dominio, Negocio, Presentación Web)
--  **Seguridad y Roles**: Autenticación con perfiles diferenciados (Admin/Vendedor)
--  **Sistema de ventas**: Carrito dinámico persistente en Sesión
--  **Stock Automatizado**: Control mediante triggers y transacciones SQL atómicas
--  **Interfaz Responsiva**: Experiencia fluida en móviles y escritorio con Bootstrap 5
--  **Diseño Profesional**: Implementación de patrones de diseño, Mappers y gestión de recursos 
+- 🔄 **Migración arquitectónica**: Reutilización de capas de Dominio y Negocio del sistema original
+- 🌐 **Nueva capa de presentación web** con ASP.NET WebForms
+- 💾 **Gestión de estado**: Implementación de Session para persistencia del carrito
+- 📱 **Diseño responsivo**: Interfaz adaptable con Bootstrap 5
+- 🎨 **Mejoras UX/UI**: Experiencia de usuario optimizada para navegadores
+- ♻️ **Reutilización de BD**: Mismos procedimientos almacenados, triggers y lógica SQL
+
+> **Nota**: Este proyecto demuestra capacidad de migración tecnológica, reutilización de código y adaptación a diferentes plataformas manteniendo la integridad del negocio.
 
 [🔗 Repositorio](https://github.com/f-Rra/Gestion-Comercial-Web)
+
+---
 
 ##  Contacto
 
 [![Email](https://img.shields.io/badge/Email-Facundo.Herrera%40alumnos.frgp.utn.edu.ar-red?logo=gmail&logoColor=white)](mailto:Facundo.Herrera@Alumnos.Frgp.Utn.Edu.ar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo_Herrera-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-rra/)
 [![Discord](https://img.shields.io/badge/Discord-f--Rra-5865F2?logo=discord&logoColor=white)](https://discord.com/users/710106527)
-
-</div>
-
 
