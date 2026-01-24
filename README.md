@@ -69,14 +69,14 @@
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
 
 ####  Características
-- 📐 **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
-- 🔐 **Sistema de autenticación** con roles diferenciados 
-- 🛒 **Módulo de ventas** con carrito interactivo y control de stock
-- 📦 **Gestión completa de inventarios** (ABML de artículos, marcas y categorías)
-- 📊 **Panel de reportes** con estadísticas operativas
-- ⚡ **Actualizaciones automáticas** mediante triggers SQL
-- 🔄 **Transacciones seguras** con rollback automático
-- 📖 **Documentación completa** (README + Manual)
+-  **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
+-  **Sistema de autenticación** con roles diferenciados 
+-  **Módulo de ventas** con carrito interactivo y control de stock
+-  **Gestión completa de inventarios** (ABML de artículos, marcas y categorías)
+-  **Panel de reportes** con estadísticas operativas
+-  **Actualizaciones automáticas** mediante triggers SQL
+-  **Transacciones seguras** con rollback automático
+-  **Documentación completa** (README + Manual)
 
 [🔗 Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial)
 
@@ -91,12 +91,12 @@
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
 
 ####  Características
-- 🔄 **Migración arquitectónica**: Reutilización de capas de Dominio y Negocio del sistema original
-- 🌐 **Nueva capa de presentación web** con ASP.NET WebForms
-- 💾 **Gestión de estado**: Implementación de Session para persistencia del carrito
-- 📱 **Diseño responsivo**: Interfaz adaptable con Bootstrap 5
-- 🎨 **Mejoras UX/UI**: Experiencia de usuario optimizada para navegadores
-- ♻️ **Reutilización de BD**: Mismos procedimientos almacenados, triggers y lógica SQL
+-  **Migración arquitectónica**: Reutilización de capas de Dominio y Negocio del sistema original
+-  **Nueva capa de presentación web** con ASP.NET WebForms
+-  **Gestión de estado**: Implementación de Session para persistencia del carrito
+-  **Diseño responsivo**: Interfaz adaptable con Bootstrap 5
+-  **Mejoras UX/UI**: Experiencia de usuario optimizada para navegadores
+-  **Reutilización de BD**: Mismos procedimientos almacenados, triggers y lógica SQL
 
 > **Nota**: Este proyecto demuestra capacidad de migración tecnológica, reutilización de código y adaptación a diferentes plataformas manteniendo la integridad del negocio.
 
