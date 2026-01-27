@@ -102,8 +102,6 @@
 -  **Mejoras UX/UI**: Experiencia de usuario optimizada para navegadores
 -  **Reutilización de BD**: Mismos procedimientos almacenados, triggers y lógica SQL
 
-> **Nota**: Este proyecto demuestra capacidad de migración tecnológica, reutilización de código y adaptación a diferentes plataformas manteniendo la integridad del negocio.
-
 [🔗 Repositorio](https://github.com/f-Rra/Gestion-Comercial-Web)
 
 ---
