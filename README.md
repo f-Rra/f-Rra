@@ -90,7 +90,7 @@
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8.1-blue)](https://github.com/f-Rra)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-WebForms-lightblue)](https://github.com/f-Rra)
-[![C#](https://img.shields.io/badge/C%23-7.3-green)](https://github.com/f-Rra)
+[![C#](https://img.shields.io/badge/C%23-10.0-green)](https://github.com/f-Rra)
 [![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%205-purple)](https://github.com/f-Rra)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
 
