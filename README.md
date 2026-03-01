@@ -39,7 +39,7 @@
 
 ---
 
-##  Mis Proyectos
+## Proyectos
 
 ### Sistema Control de Almuerzos
 > Sistema empresarial para gestión integral de comedores corporativos
