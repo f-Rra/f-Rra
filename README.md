@@ -49,14 +49,12 @@
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-red)](https://github.com/f-Rra)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
 
-####  Características 
 -  **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
 -  **Gestión de servicios de almuerzo** por jornada y lugar
 -  **Gestión multi-empresa** - Control de múltiples compañías
 -  **Sistema de respaldos** automáticos y manuales
 -  **Validaciones** en todas las capas
 -  **Reportes** con exportación a PDF
--  **Documentación completa** (README + Manual + Guía RFID)
 
 [🔗 Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos) 
 
@@ -70,7 +68,6 @@
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
 
-####  Características
 -  **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
 -  **Sistema de autenticación** con roles diferenciados 
 -  **Módulo de ventas** con carrito interactivo y control de stock
@@ -78,7 +75,6 @@
 -  **Panel de reportes** con estadísticas operativas
 -  **Actualizaciones automáticas** mediante triggers SQL
 -  **Transacciones seguras** con rollback automático
--  **Documentación completa** (README + Manual)
 
 [🔗 Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial)
 
@@ -93,7 +89,6 @@
 [![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%205-purple)](https://github.com/f-Rra)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
 
-####  Características
 -  **Migración arquitectónica**: Reutilización de capas de Dominio y Negocio del sistema original
 -  **Nueva capa de presentación web** con ASP.NET WebForms
 -  **Gestión de estado**: Implementación de Session para persistencia del carrito
