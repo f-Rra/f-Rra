@@ -23,7 +23,6 @@
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Razor](https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![ReaLTaiizor](https://img.shields.io/badge/ReaLTaiizor-FF6A00?style=for-the-badge&logoColor=white)
 
 ### Herramientas
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
