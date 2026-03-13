@@ -91,7 +91,6 @@
 -  **Migración arquitectónica**: Reutilización de capas de Dominio y Negocio del sistema original
 -  **Nueva capa de presentación web** con ASP.NET WebForms
 -  **Gestión de estado**: Implementación de Session para persistencia del carrito
--  **Diseño responsivo**: Interfaz adaptable con Bootstrap 5
 -  **Mejoras UX/UI**: Experiencia de usuario optimizada para navegadores
 -  **Reutilización de BD**: Mismos procedimientos almacenados, triggers y lógica SQL
 
