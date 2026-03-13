@@ -48,7 +48,6 @@
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-red)](https://github.com/f-Rra)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
 
--  **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
 -  **Gestión de servicios de almuerzo** por jornada y lugar
 -  **Gestión multi-empresa** - Control de múltiples compañías
 -  **Sistema de respaldos** automáticos y manuales
@@ -67,7 +66,6 @@
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
 
--  **Arquitectura en 3 capas** (Dominio, Negocio, Presentación)
 -  **Sistema de autenticación** con roles diferenciados 
 -  **Módulo de ventas** con carrito interactivo y control de stock
 -  **Gestión completa de inventarios** (ABML de artículos, marcas y categorías)
