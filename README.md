@@ -40,8 +40,11 @@
 
 ## Proyectos
 
+
+---
+
 ### Sistema Control de Almuerzos
-> Sistema empresarial para gestión integral de comedores corporativos
+> Sistema empresarial original de escritorio para gestión integral de comedores corporativos
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra)
 [![C#](https://img.shields.io/badge/C%23-10.0-green)](https://github.com/f-Rra)
@@ -58,6 +61,23 @@
 
 ---
 
+### Sistema Control de Almuerzos — MVC
+> Sistema web moderno para gestión integral de comedores corporativos (Migración de WinForms a Plataforma Web)
+
+[![.NET](https://img.shields.io/badge/.NET-9.0-blue)](https://github.com/f-Rra)
+[![C#](https://img.shields.io/badge/C%23-13.0-green)](https://github.com/f-Rra)
+[![ASP.NET Core MVC](https://img.shields.io/badge/UI-ASP.NET%20MVC-lightblue)](https://github.com/f-Rra)
+[![EF Core](https://img.shields.io/badge/ORM-Entity%20Framework%20Core-purple)](https://github.com/f-Rra)
+[![Identity](https://img.shields.io/badge/Auth-ASP.NET%20Identity-orange)](https://github.com/f-Rra)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-red)](https://github.com/f-Rra)
+
+-  **Arquitectura moderna**: MVC (.NET 9) con inyección de dependencias y capa de servicios.
+-  **Gestión de estado**: Operaciones en tiempo real para registro rápido por ID de credencial RFID.
+-  **Seguridad**: ASP.NET Core Identity implementado para autenticación y roles de usuario.
+-  **Generación de PDFs y Emails**: Emisión de reportes usando QuestPDF y envío automático vía SMTP (MailKit).
+-  **Diseño responsivo**: Interfaz fluida con Glassmorphism para entornos industriales (tablet/PC).
+
+[🔗 Repositorio](https://github.com/f-Rra/Control-Almuerzos-MVC) 
 ### Sistema de Gestión Comercial
 > Aplicación de escritorio para administración de inventarios y ventas empresariales
 
