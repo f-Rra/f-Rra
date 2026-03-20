@@ -79,10 +79,12 @@
 -  **Diseño responsivo**: Interfaz fluida para entornos industriales (tablet/PC).
 
 [🔗 Repositorio](https://github.com/f-Rra/Control-Almuerzos-MVC)
+
+---
+
 ### Sistema de Gestión Comercial
 > Aplicación de escritorio para administración de inventarios y ventas empresariales
 
----
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra)
 [![C#](https://img.shields.io/badge/C%23-7.3-green)](https://github.com/f-Rra)
