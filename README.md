@@ -62,7 +62,7 @@
 
 ---
 
-### Sistema Control de Almuerzos — MVC
+### SCA-Web — MVC
 > Sistema web moderno para gestión integral de comedores corporativos (Migración de WinForms a Plataforma Web)
 
 [![.NET](https://img.shields.io/badge/.NET-9.0-blue)](https://github.com/f-Rra)
