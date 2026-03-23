@@ -96,7 +96,6 @@
 -  **Gestión completa de inventarios** (ABML de artículos, marcas y categorías)
 -  **Panel de reportes** con estadísticas operativas
 -  **Actualizaciones automáticas** mediante triggers SQL
--  **Transacciones seguras** con rollback automático
 
 [🔗 Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial)
 
