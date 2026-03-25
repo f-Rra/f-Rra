@@ -76,7 +76,6 @@
 -  **Gestión de estado**: Operaciones en tiempo real para registro rápido por ID de credencial RFID.
 -  **Seguridad**: ASP.NET Core Identity implementado para autenticación y roles de usuario.
 -  **Generación de PDFs y Emails**: Emisión de reportes usando QuestPDF y envío automático vía SMTP (MailKit).
--  **Diseño responsivo**: Interfaz fluida para entornos industriales (tablet/PC).
 
 [🔗 Repositorio](https://github.com/f-Rra/Control-Almuerzos-MVC)
 
