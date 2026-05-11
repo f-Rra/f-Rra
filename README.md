@@ -1,126 +1,109 @@
 # Facundo Herrera
 
-###  Estudiante de Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional - FRGP
-  
----   
- 
-##  Stack Tecnológico 
- 
+### Desarrollador .NET · Estudiante UTN FRGP
+
+Desarrollador en transición hacia el mercado IT con proyectos propios en producción. Construyo sistemas completos en el ecosistema .NET — desde aplicaciones de escritorio hasta plataformas web desplegadas en Azure. Actualmente estudiando la Tecnicatura Universitaria en Programación en la UTN, Facultad Regional General Pacheco.
+
+---
+
+## Stack
+
 ### Lenguajes
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frameworks & Librerías
-![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
 ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET WebForms](https://img.shields.io/badge/ASP.NET_WebForms-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Razor](https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-### Herramientas
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
+### Herramientas & Cloud
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Bases de Datos
+### Base de datos
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-## Proyectos 
+## Proyectos
 
-### Sistema Control de Almuerzos
-> Sistema empresarial original de escritorio para gestión integral de comedores corporativos
+### SCA-MVC — Sistema Control de Almuerzos (Web)
+> Migración de WinForms a ASP.NET Core MVC · Desplegado en Azure
 
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra)
-[![C#](https://img.shields.io/badge/C%23-10.0-green)](https://github.com/f-Rra)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-red)](https://github.com/f-Rra)
-[![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
+[![.NET](https://img.shields.io/badge/.NET-9.0-blue)](https://github.com/f-Rra/Control-Almuerzos-MVC)
+[![C#](https://img.shields.io/badge/C%23-13.0-green)](https://github.com/f-Rra/Control-Almuerzos-MVC)
+[![ASP.NET Core MVC](https://img.shields.io/badge/UI-ASP.NET%20MVC-lightblue)](https://github.com/f-Rra/Control-Almuerzos-MVC)
+[![EF Core](https://img.shields.io/badge/ORM-EF%20Core-purple)](https://github.com/f-Rra/Control-Almuerzos-MVC)
+[![Azure](https://img.shields.io/badge/Deploy-Azure-0078D4)](https://github.com/f-Rra/Control-Almuerzos-MVC)
 
--  **Gestión de servicios de almuerzo** por jornada y lugar
--  **Gestión multi-empresa** - Control de múltiples compañías
--  **Sistema de respaldos** automáticos y manuales
--  **Validaciones** en todas las capas
--  **Reportes** con exportación a PDF
+- Registro de comensales en tiempo real por credencial RFID — 504 empleados, 6 empresas
+- ASP.NET Core Identity con roles diferenciados y sidebar adaptativo
+- 4 tipos de reportes exportables a PDF (QuestPDF) y enviables por email (MailKit)
+- Desplegado en Azure App Service + Azure SQL Database
+- Proceso documentado en 54 guías técnicas commit a commit
 
-[🔗 Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos) 
-
----
-
-### SCA-Web: MVC
-> Sistema web moderno para gestión integral de comedores corporativos (Migración de WinForms a Plataforma Web)
-
-[![.NET](https://img.shields.io/badge/.NET-9.0-blue)](https://github.com/f-Rra)
-[![C#](https://img.shields.io/badge/C%23-13.0-green)](https://github.com/f-Rra)
-[![ASP.NET Core MVC](https://img.shields.io/badge/UI-ASP.NET%20MVC-lightblue)](https://github.com/f-Rra)
-[![EF Core](https://img.shields.io/badge/ORM-Entity%20Framework%20Core-purple)](https://github.com/f-Rra)
-[![Identity](https://img.shields.io/badge/Auth-ASP.NET%20Identity-orange)](https://github.com/f-Rra)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-red)](https://github.com/f-Rra)
-
--  **Arquitectura moderna**: MVC (.NET 9) con inyección de dependencias y capa de servicios.
--  **Gestión de estado**: Operaciones en tiempo real para registro rápido por ID de credencial RFID.
--  **Seguridad**: ASP.NET Core Identity implementado para autenticación y roles de usuario.
--  **Generación de PDFs y Emails**: Emisión de reportes usando QuestPDF y envío automático vía SMTP (MailKit).
-
-[🔗 Repositorio](https://github.com/f-Rra/Control-Almuerzos-MVC)
+[→ Repositorio](https://github.com/f-Rra/Control-Almuerzos-MVC)
 
 ---
 
-### Sistema de Gestión Comercial
-> Aplicación de escritorio para administración de inventarios y ventas empresariales
+### SCA — Sistema Control de Almuerzos (original)
+> Sistema de escritorio desarrollado de forma completamente independiente
 
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra/Sistema-Control-Almuerzos)
+[![C#](https://img.shields.io/badge/C%23-10.0-green)](https://github.com/f-Rra/Sistema-Control-Almuerzos)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-red)](https://github.com/f-Rra/Sistema-Control-Almuerzos)
+[![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra/Sistema-Control-Almuerzos)
 
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra)
-[![C#](https://img.shields.io/badge/C%23-7.3-green)](https://github.com/f-Rra)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
-[![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra)
+- Arquitectura de 3 capas con ADO.NET y stored procedures
+- Gestión multi-empresa, registro por credencial, reportes PDF y respaldos automáticos
+- Base del rediseño posterior a plataforma web
 
--  **Sistema de autenticación** con roles diferenciados 
--  **Módulo de ventas** con carrito interactivo y control de stock
--  **Gestión completa de inventarios** (ABML de artículos, marcas y categorías)
--  **Panel de reportes** con estadísticas operativas
--  **Actualizaciones automáticas** mediante triggers SQL
-
-[🔗 Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial)
-
-sca-mvc-app-hndpbbgshwfnbehy.brazilsouth-01.azurewebsites.net
----
-
-### SGC-Web: Migración a Plataforma Web
-> Modernización del SGC a tecnología web manteniendo la lógica de negocio existente
-
-[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8.1-blue)](https://github.com/f-Rra)
-[![ASP.NET](https://img.shields.io/badge/ASP.NET-WebForms-lightblue)](https://github.com/f-Rra)
-[![C#](https://img.shields.io/badge/C%23-10.0-green)](https://github.com/f-Rra)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra)
-[![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%205-purple)](https://github.com/f-Rra)
-
--  **Migración arquitectónica**: Reutilización de capas de Dominio y Negocio del sistema original
--  **Nueva capa de presentación web** con ASP.NET WebForms
--  **Gestión de estado**: Implementación de Session para persistencia del carrito
--  **Mejoras UX/UI**: Experiencia de usuario optimizada para navegadores
--  **Reutilización de BD**: Mismos procedimientos almacenados, triggers y lógica SQL
-
-[🔗 Repositorio](https://github.com/f-Rra/Gestion-Comercial-Web)
+[→ Repositorio](https://github.com/f-Rra/Sistema-Control-Almuerzos)
 
 ---
 
-##  Contacto
+### SGC-Web — Sistema de Gestión Comercial (Web)
+> Migración de WinForms a ASP.NET WebForms
 
-[![Email](https://img.shields.io/badge/Email-Facundo.Herrera%40alumnos.frgp.utn.edu.ar-red?logo=gmail&logoColor=white)](mailto:Facundo.Herrera@Alumnos.Frgp.Utn.Edu.ar)
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8.1-blue)](https://github.com/f-Rra/Gestion-Comercial-Web)
+[![ASP.NET WebForms](https://img.shields.io/badge/ASP.NET-WebForms-lightblue)](https://github.com/f-Rra/Gestion-Comercial-Web)
+[![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%205-purple)](https://github.com/f-Rra/Gestion-Comercial-Web)
+
+- Reutilización íntegra de capas de Dominio y Negocio del sistema original
+- Mismos stored procedures y triggers — sin cambios en la BD
+- Carrito de compras con Session, autenticación con roles, Bootstrap 5
+
+[→ Repositorio](https://github.com/f-Rra/Gestion-Comercial-Web)
+
+---
+
+### SGC — Sistema de Gestión Comercial (original)
+> Sistema de escritorio para administración de inventarios y ventas
+
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8.1-blue)](https://github.com/f-Rra/Sistema-Gestion-Comercial)
+[![C#](https://img.shields.io/badge/C%23-7.3-green)](https://github.com/f-Rra/Sistema-Gestion-Comercial)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)](https://github.com/f-Rra/Sistema-Gestion-Comercial)
+
+- Autenticación con roles, carrito interactivo, control de stock con triggers SQL
+- CRUD completo de artículos, marcas y categorías con baja lógica
+- Reportes estadísticos con exportación a PDF/PNG
+
+[→ Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial)
+
+---
+
+## Contacto
+
+[![Email](https://img.shields.io/badge/Email-facundo.rra%40gmail.com-red?logo=gmail&logoColor=white)](mailto:facundo.rra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo_Herrera-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-rra/)
-[![Discord](https://img.shields.io/badge/Discord-f--Rra-5865F2?logo=discord&logoColor=white)](https://discord.com/users/710106527)
