@@ -19,8 +19,10 @@ Desarrollador en transición hacia el mercado IT con proyectos propios en produc
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
 ![ASP.NET WebForms](https://img.shields.io/badge/ASP.NET_WebForms-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
