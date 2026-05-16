@@ -84,7 +84,7 @@ Desarrollador en transición hacia el mercado IT con proyectos propios en produc
 
 - Reutilización íntegra de capas de Dominio y Negocio del sistema original
 - Mismos stored procedures y triggers — sin cambios en la BD
-- Carrito de compras con Session, autenticación con roles, Bootstrap 5
+- Carrito de compras con Session, autenticación con roles, Bootstrap 5 
 
 [→ Repositorio](https://github.com/f-Rra/Gestion-Comercial-Web)
 
