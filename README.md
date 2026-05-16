@@ -1,6 +1,6 @@
 # Facundo Herrera
 
-### Desarrollador .NET · Estudiante UTN FRGP
+### Desarrollador .NET · Estudiante UTN FRGP 
 
 Desarrollador en transición hacia el mercado IT con proyectos propios en producción. Construyo sistemas completos en el ecosistema .NET — desde aplicaciones de escritorio hasta plataformas web desplegadas en Azure. Actualmente estudiando la Tecnicatura Universitaria en Programación en la UTN, Facultad Regional General Pacheco.
 
