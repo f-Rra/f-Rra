@@ -33,8 +33,8 @@
       ],
       "indices": [],
       "id": "BipMU0OHKfmlEwwGD1G9b",
-      "x": -635.4544138601998,
-      "y": -1021.9931166932893,
+      "x": -731.2679421015257,
+      "y": -811.9403817026893,
       "locked": false
     },
     {
@@ -83,8 +83,8 @@
       ],
       "indices": [],
       "id": "yUO-UqT4i78usz7F4LYYU",
-      "x": -92.00410483444148,
-      "y": -173.1966515547955
+      "x": -795.8650238380324,
+      "y": -191.622330062743
     },
     {
       "name": "Usuarios",
@@ -183,8 +183,9 @@
       ],
       "indices": [],
       "id": "YFjtRgLrOuDxX3aknTKmr",
-      "x": -827.0587319264864,
-      "y": -865.1317652777625
+      "x": -1462.744640450671,
+      "y": -1036.4905754016731,
+      "locked": false
     },
     {
       "name": "Proveedores",
@@ -271,8 +272,8 @@
       ],
       "indices": [],
       "id": "vaW5O7y-PtGinXJCHOtow",
-      "x": 203.62495744531873,
-      "y": -971.7963618573867
+      "x": -83.81562727865992,
+      "y": -888.8808085716237
     },
     {
       "name": "Ingredientes",
@@ -358,8 +359,8 @@
       ],
       "indices": [],
       "id": "g5_ysN50Rog2bt--70tIG",
-      "x": 243.6678738864557,
-      "y": -543.0038617911753,
+      "x": -84.30920355500689,
+      "y": -377.17275521964916,
       "locked": false
     },
     {
@@ -440,12 +441,25 @@
           "primary": false,
           "default": "1",
           "check": ""
+        },
+        {
+          "id": "imagen_recetas_01",
+          "name": "Imagen",
+          "type": "VARCHAR",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": false,
+          "primary": false,
+          "default": "",
+          "size": 255,
+          "check": ""
         }
       ],
       "indices": [],
       "id": "bhY7FAS8DlTauxxw2GddR",
-      "x": -461.9827327629117,
-      "y": -748.1277030160876,
+      "x": -740.2104782329178,
+      "y": -652.314174774761,
       "locked": false
     },
     {
@@ -505,8 +519,8 @@
       ],
       "indices": [],
       "id": "RAzr1VlTPqJBkql-HvHYp",
-      "x": 580.4346568267869,
-      "y": -803.5148228019137
+      "x": -3.6593518751448073,
+      "y": -62.802546782428976
     },
     {
       "name": "IngredientesxRecetas",
@@ -591,8 +605,8 @@
       ],
       "indices": [],
       "id": "wrGRXf_nVLCiHf6OxQxm1",
-      "x": -101.89098070862877,
-      "y": -806.1771250239639,
+      "x": -394.85926898499196,
+      "y": -883.564974757343,
       "locked": false
     },
     {
@@ -651,44 +665,9 @@
       ],
       "indices": [],
       "id": "4ypX5I5wuptMMLg9rm2hE",
-      "x": -847.427803700609,
-      "y": -482.09037879066375
-    },
-    {
-      "name": "DecoracionesReceta",
-      "comment": "",
-      "color": "#7d3c98",
-      "fields": [
-        {
-          "id": "69Id1ufx89InLGqn0JqDk",
-          "name": "IdReceta",
-          "type": "BIGINT",
-          "comment": "",
-          "unique": false,
-          "increment": false,
-          "notNull": true,
-          "primary": true,
-          "default": "",
-          "check": ""
-        },
-        {
-          "id": "Pn95ESAtG_dIFrbir1DSR",
-          "name": "IdDecoracion",
-          "type": "BIGINT",
-          "comment": "",
-          "unique": false,
-          "increment": false,
-          "notNull": true,
-          "primary": true,
-          "default": "",
-          "check": ""
-        }
-      ],
-      "indices": [],
-      "id": "5kBrGj4OpczuBTRULT6X2",
-      "x": -101.88499558918238,
-      "y": -1023.8848850342297,
-      "locked": false
+      "x": -399.68381595748656,
+      "y": -572.3762034796059,
+      "locked": true
     },
     {
       "name": "Costos",
@@ -784,8 +763,8 @@
       ],
       "indices": [],
       "id": "YSHOljJvGPuqNID3Dxe1d",
-      "x": -895.3436561059218,
-      "y": -233.93879264978352
+      "x": -1470.22482555388,
+      "y": -689.0530517960837
     },
     {
       "name": "MovimientosStock",
@@ -894,9 +873,250 @@
       ],
       "indices": [],
       "id": "EBNdeHlO0xH9awQpYhKIM",
-      "x": -421.8969330581692,
-      "y": -407.29225615456994,
+      "x": -1525.595075684218,
+      "y": -339.11724567516455,
       "locked": false
+    },
+    {
+      "name": "Equipo",
+      "comment": "",
+      "color": "#1e8449",
+      "fields": [
+        {
+          "id": "equipo_id_01",
+          "name": "IdIntegrante",
+          "type": "BIGINT",
+          "comment": "",
+          "unique": false,
+          "increment": true,
+          "notNull": true,
+          "primary": true,
+          "default": "",
+          "check": ""
+        },
+        {
+          "id": "equipo_nombre_01",
+          "name": "Nombre",
+          "type": "VARCHAR",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": true,
+          "primary": false,
+          "default": "",
+          "size": 50,
+          "check": ""
+        },
+        {
+          "id": "equipo_apellido_01",
+          "name": "Apellido",
+          "type": "VARCHAR",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": true,
+          "primary": false,
+          "default": "",
+          "size": 50,
+          "check": ""
+        },
+        {
+          "id": "equipo_idclasificacion_01",
+          "name": "IdClasificacion",
+          "type": "BIGINT",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": true,
+          "primary": false,
+          "default": "",
+          "check": ""
+        }
+      ],
+      "indices": [],
+      "id": "equipo_table_01",
+      "x": -1036.6797914732526,
+      "y": -989.2831525747739
+    },
+    {
+      "name": "Comandas",
+      "comment": "",
+      "color": "#ca6f1e",
+      "fields": [
+        {
+          "id": "cmd_id_01",
+          "name": "IdComanda",
+          "type": "BIGINT",
+          "comment": "",
+          "unique": false,
+          "increment": true,
+          "notNull": true,
+          "primary": true,
+          "default": "",
+          "check": ""
+        },
+        {
+          "id": "cmd_idreceta_01",
+          "name": "IdReceta",
+          "type": "BIGINT",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": true,
+          "primary": false,
+          "default": "",
+          "check": ""
+        },
+        {
+          "id": "cmd_fecha_01",
+          "name": "Fecha",
+          "type": "DATE",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": true,
+          "primary": false,
+          "default": "",
+          "check": ""
+        },
+        {
+          "id": "cmd_porciones_01",
+          "name": "Porciones",
+          "type": "INT",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": true,
+          "primary": false,
+          "default": "",
+          "check": ""
+        },
+        {
+          "id": "cmd_idusuario_01",
+          "name": "IdUsuario",
+          "type": "BIGINT",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": true,
+          "primary": false,
+          "default": "",
+          "check": ""
+        },
+        {
+          "id": "cmd_idintegrante_01",
+          "name": "IdIntegrante",
+          "type": "BIGINT",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": true,
+          "primary": false,
+          "default": "",
+          "check": ""
+        }
+      ],
+      "indices": [],
+      "id": "comandas_table_01",
+      "x": -1081.1608770859684,
+      "y": -555.5452818825845
+    },
+    {
+      "name": "Modificaciones",
+      "comment": "",
+      "color": "#ca6f1e",
+      "fields": [
+        {
+          "id": "mod_id_01",
+          "name": "IdModificacion",
+          "type": "BIGINT",
+          "comment": "",
+          "unique": false,
+          "increment": true,
+          "notNull": true,
+          "primary": true,
+          "default": "",
+          "check": ""
+        },
+        {
+          "id": "mod_idcomanda_01",
+          "name": "IdComanda",
+          "type": "BIGINT",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": true,
+          "primary": false,
+          "default": "",
+          "check": ""
+        },
+        {
+          "id": "mod_tipo_01",
+          "name": "Tipo",
+          "type": "VARCHAR",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": true,
+          "primary": false,
+          "default": "",
+          "size": 20,
+          "check": ""
+        },
+        {
+          "id": "mod_idingoriginal_01",
+          "name": "IdIngredienteOriginal",
+          "type": "BIGINT",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": false,
+          "primary": false,
+          "default": "",
+          "check": ""
+        },
+        {
+          "id": "mod_idingreemplazo_01",
+          "name": "IdIngredienteReemplazo",
+          "type": "BIGINT",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": false,
+          "primary": false,
+          "default": "",
+          "check": ""
+        },
+        {
+          "id": "mod_cantidad_01",
+          "name": "Cantidad",
+          "type": "DECIMAL",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": true,
+          "primary": false,
+          "default": "",
+          "size": "10,4",
+          "check": ""
+        },
+        {
+          "id": "mod_idunidad_01",
+          "name": "IdUnidad",
+          "type": "BIGINT",
+          "comment": "",
+          "unique": false,
+          "increment": false,
+          "notNull": true,
+          "primary": false,
+          "default": "",
+          "check": ""
+        }
+      ],
+      "indices": [],
+      "id": "modificaciones_table_01",
+      "x": -1188.3683721116058,
+      "y": -96.56553232695285
     }
   ],
   "relationships": [
@@ -1001,28 +1221,6 @@
     },
     {
       "name": "",
-      "startTableId": "5kBrGj4OpczuBTRULT6X2",
-      "endTableId": "bhY7FAS8DlTauxxw2GddR",
-      "endFieldId": "ayR_gB8d5ZnN0OMWBEyb-",
-      "startFieldId": "69Id1ufx89InLGqn0JqDk",
-      "id": "-CjUjfMY5nQG8alCQHKyY",
-      "updateConstraint": "No action",
-      "deleteConstraint": "No action",
-      "cardinality": "many_to_one"
-    },
-    {
-      "name": "",
-      "startTableId": "5kBrGj4OpczuBTRULT6X2",
-      "endTableId": "bhY7FAS8DlTauxxw2GddR",
-      "endFieldId": "ayR_gB8d5ZnN0OMWBEyb-",
-      "startFieldId": "Pn95ESAtG_dIFrbir1DSR",
-      "id": "gnfgjksWoaCpFIPHy7sI5",
-      "updateConstraint": "No action",
-      "deleteConstraint": "No action",
-      "cardinality": "many_to_one"
-    },
-    {
-      "name": "",
       "startTableId": "YSHOljJvGPuqNID3Dxe1d",
       "endTableId": "bhY7FAS8DlTauxxw2GddR",
       "endFieldId": "ayR_gB8d5ZnN0OMWBEyb-",
@@ -1072,6 +1270,94 @@
       "endFieldId": "pkfpkbaJGe7z5alhk68Un",
       "startFieldId": "bUnKs63ELCPsAhU8j1n_P",
       "id": "gsQsV9YpgyRBZVgrkNggN",
+      "updateConstraint": "No action",
+      "deleteConstraint": "No action",
+      "cardinality": "many_to_one"
+    },
+    {
+      "name": "",
+      "startTableId": "equipo_table_01",
+      "endTableId": "BipMU0OHKfmlEwwGD1G9b",
+      "endFieldId": "ECN8bw9YACslODi46cDno",
+      "startFieldId": "equipo_idclasificacion_01",
+      "id": "rel_equipo_clas_01",
+      "updateConstraint": "No action",
+      "deleteConstraint": "No action",
+      "cardinality": "many_to_one"
+    },
+    {
+      "name": "",
+      "startTableId": "comandas_table_01",
+      "endTableId": "bhY7FAS8DlTauxxw2GddR",
+      "endFieldId": "ayR_gB8d5ZnN0OMWBEyb-",
+      "startFieldId": "cmd_idreceta_01",
+      "id": "rel_cmd_receta_01",
+      "updateConstraint": "No action",
+      "deleteConstraint": "No action",
+      "cardinality": "many_to_one"
+    },
+    {
+      "name": "",
+      "startTableId": "comandas_table_01",
+      "endTableId": "YFjtRgLrOuDxX3aknTKmr",
+      "endFieldId": "pkfpkbaJGe7z5alhk68Un",
+      "startFieldId": "cmd_idusuario_01",
+      "id": "rel_cmd_usuario_01",
+      "updateConstraint": "No action",
+      "deleteConstraint": "No action",
+      "cardinality": "many_to_one"
+    },
+    {
+      "name": "",
+      "startTableId": "comandas_table_01",
+      "endTableId": "equipo_table_01",
+      "endFieldId": "equipo_id_01",
+      "startFieldId": "cmd_idintegrante_01",
+      "id": "rel_cmd_equipo_01",
+      "updateConstraint": "No action",
+      "deleteConstraint": "No action",
+      "cardinality": "many_to_one"
+    },
+    {
+      "name": "",
+      "startTableId": "modificaciones_table_01",
+      "endTableId": "comandas_table_01",
+      "endFieldId": "cmd_id_01",
+      "startFieldId": "mod_idcomanda_01",
+      "id": "rel_mod_cmd_01",
+      "updateConstraint": "No action",
+      "deleteConstraint": "No action",
+      "cardinality": "many_to_one"
+    },
+    {
+      "name": "",
+      "startTableId": "modificaciones_table_01",
+      "endTableId": "g5_ysN50Rog2bt--70tIG",
+      "endFieldId": "aoHnUevewZ4nEJkrOP8fw",
+      "startFieldId": "mod_idingoriginal_01",
+      "id": "rel_mod_ingorig_01",
+      "updateConstraint": "No action",
+      "deleteConstraint": "No action",
+      "cardinality": "many_to_one"
+    },
+    {
+      "name": "",
+      "startTableId": "modificaciones_table_01",
+      "endTableId": "g5_ysN50Rog2bt--70tIG",
+      "endFieldId": "aoHnUevewZ4nEJkrOP8fw",
+      "startFieldId": "mod_idingreemplazo_01",
+      "id": "rel_mod_ingremp_01",
+      "updateConstraint": "No action",
+      "deleteConstraint": "No action",
+      "cardinality": "many_to_one"
+    },
+    {
+      "name": "",
+      "startTableId": "modificaciones_table_01",
+      "endTableId": "yUO-UqT4i78usz7F4LYYU",
+      "endFieldId": "_Mbtw52RA_Y-qinNrDYF6",
+      "startFieldId": "mod_idunidad_01",
+      "id": "rel_mod_unidad_01",
       "updateConstraint": "No action",
       "deleteConstraint": "No action",
       "cardinality": "many_to_one"
