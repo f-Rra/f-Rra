@@ -57,7 +57,7 @@
 
 ---
 
-### SCA — Sistema Control de Almuerzos (original)
+### SCA — Sistema Control de Almuerzos 
 > Sistema de escritorio desarrollado de forma completamente independiente
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-blue)](https://github.com/f-Rra/Sistema-Control-Almuerzos)
@@ -88,7 +88,7 @@
 
 ---
 
-### SGC — Sistema de Gestión Comercial (original)
+### SGC — Sistema de Gestión Comercial 
 > Sistema de escritorio para administración de inventarios y ventas
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8.1-blue)](https://github.com/f-Rra/Sistema-Gestion-Comercial)
