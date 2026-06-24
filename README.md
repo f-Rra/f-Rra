@@ -45,11 +45,10 @@
 [![EF Core](https://img.shields.io/badge/ORM-EF%20Core-purple)](https://github.com/f-Rra/Control-Almuerzos-MVC)
 [![Azure](https://img.shields.io/badge/Deploy-Azure-0078D4)](https://github.com/f-Rra/Control-Almuerzos-MVC)
 
-- Registro de comensales en tiempo real por credencial RFID — 504 empleados, 6 empresas
+- Registro de comensales en tiempo real por credencial RFID —
 - ASP.NET Core Identity con roles diferenciados y sidebar adaptativo
 - 4 tipos de reportes exportables a PDF (QuestPDF) y enviables por email (MailKit)
 - Desplegado en Azure App Service + Azure SQL Database
-- Proceso documentado en 54 guías técnicas commit a commit
 
 [→ Repositorio](https://github.com/f-Rra/Control-Almuerzos-MVC)
 
