@@ -59,7 +59,7 @@
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-2019+-red)](https://github.com/f-Rra/Sistema-Control-Almuerzos)
 [![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)](https://github.com/f-Rra/Sistema-Control-Almuerzos)
 
-- Arquitectura de 3 capas con ADO.NET y stored procedures
+- Arquitectura de 3 capas con ADO.NET
 - Gestión multi-empresa, registro por credencial, reportes PDF y respaldos automáticos
 - Base del rediseño posterior a plataforma web
 
@@ -74,7 +74,7 @@
 [![ASP.NET WebForms](https://img.shields.io/badge/ASP.NET-WebForms-lightblue)](https://github.com/f-Rra/Gestion-Comercial-Web)
 [![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%205-purple)](https://github.com/f-Rra/Gestion-Comercial-Web)
 
-- Reutilización íntegra de capas de Dominio y Negocio del sistema original
+- Reutilización de capas de Dominio y Negocio del sistema original
 - Mismos stored procedures y triggers — sin cambios en la BD
 - Carrito de compras con Session, autenticación con roles, Bootstrap 5 
 
@@ -91,7 +91,7 @@
 
 - Autenticación con roles, carrito interactivo, control de stock con triggers SQL
 - CRUD completo de artículos, marcas y categorías con baja lógica
-- Reportes estadísticos con exportación a PDF/PNG
+- Reportes estadísticos con exportación a PDF
 
 [→ Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial)
 
@@ -99,5 +99,5 @@
 
 ## Contacto
 
-[![Email](https://img.shields.io/badge/Email-facundo.rra%40gmail.com-red?logo=gmail&logoColor=white)](mailto:facundo.rra@gmail.com)
+[![Email](https://img.shields.io/badge/Email-facundo.rra%40gmail.com-red?logo=gmail&logoColor=white)](mailto:facundo.Rra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo_Herrera-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-rra/)
