@@ -81,7 +81,7 @@
 [→ Repositorio](https://github.com/f-Rra/Gestion-Comercial-Web)
 
 ---
-
+ 
 ### SGC — Sistema de Gestión Comercial 
 > Sistema de escritorio para administración de inventarios y ventas
 
