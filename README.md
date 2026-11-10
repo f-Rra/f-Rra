@@ -94,7 +94,7 @@
 - Reportes estadísticos con exportación a PDF
 
 [→ Repositorio](https://github.com/f-Rra/Sistema-Gestion-Comercial)
-
+ 
 ---
 
 ## Contacto
